@@ -1,7 +1,6 @@
 # Profile: @Vatsal565
 #### Stuff about me
 - 👋🏻 Hi, I am Vatsal Bateriwala
-- 👀 I don't have any particular thing in which I am interested, but I do enjoy programming & DSA
 - 🌱 I’m currently pursuing B.Tech. in Artificial Intelligence at Sardar Vallabhbhai National Institute of Technology, Surat
 - 📫 Reach me on LinkedIn: https://www.linkedin.com/in/vatsal-bateriwala/
 - 😄 Pronouns: He/Him
