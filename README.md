@@ -1,9 +1,24 @@
-# Hello World! 👋 I'm Vatsal Bateriwala
+<h1 align="center">
+  <picture>
+    <source 
+      srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=%F0%9F%91%8B+Hi+there%2C+I'm+Vatsal+Bateriwala;" 
+      media="(prefers-color-scheme: dark)"
+    />
+    <source 
+      srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=000000&center=true&vCenter=true&width=800&lines=%F0%9F%91%8B+Hi+there%2C+I'm+Vatsal+Bateriwala;" 
+      media="(prefers-color-scheme: light)"
+    />
+    <img 
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=000000&center=true&vCenter=true&width=800&lines=%F0%9F%91%8B+Hi+there%2C+I'm+Vatsal+Bateriwala;" 
+      alt="Typing SVG"
+    />
+  </picture>
+</h1>
 
 ## 🎓 About Me
 - 🏫 Sophomore at NIT Surat, majoring in Artificial Intelligence
 - 🧠 Currently diving deep into the world of Deep Learning
-- 💡 Passionate about AI and its applications
+- 💡 Passionate about Web Development with AI and its applications
 
 ## 🛠 Tech Stack
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -19,11 +34,9 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
@@ -36,13 +49,6 @@
 - Natural Language Processing
 - Computer Vision
 -->
-
-## 👨‍💻 Projects
-### 1. Financio - Personal Finance SaaS Application
-- **Description:** A full-fledged finance management platform to manage accounts, transactions, and categories.
-- **Tech Stack:** Next.js, Hono API, Drizzle ORM, PostgreSQL, Shadcn UI, Clerk, Recharts, TanStack Table, Tailwind CSS, Framer Motion
-- **Repository:** [GitHub Link](https://github.com/Vatsal565/final)
-- **Demo:** [Live Demo](https://financio2.vercel.app/)
 
 
 ## 📊 GitHub Stats
