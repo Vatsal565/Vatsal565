@@ -16,7 +16,7 @@
 </h1>
 
 ## 🎓 About Me
-- 🏫 Pre Final Year at NIT Surat, majoring in Artificial Intelligence
+- 🏫 Junior at NIT Surat, majoring in Artificial Intelligence
 - 🧠 Currently diving deep into the world of Deep Learning
 - 💡 Passionate about Web Development with AI and its applications
 
