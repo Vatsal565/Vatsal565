@@ -53,12 +53,11 @@
 
 ## 📊 GitHub Stats
 
-![Vatsal565's Stats](https://github-readme-stats.vercel.app/api?username=Vatsal565&theme=dark&show_icons=true&hide_border=true&count_private=true)
+![Vatsal565's Stats](https://github-readme-stats.vercel.app/api?username=Vatsal565&theme=blue-green&show_icons=true&hide_border=true&count_private=true)
 
+![Vatsal565's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vatsal565&theme=blue-green&hide_border=true)
 
-![Vatsal565's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vatsal565&theme=dark&hide_border=true)
-
-![Vatsal565's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vatsal565&theme=dark&show_icons=true&hide_border=true&layout=compact&hide=jupyter%20notebook)
+![Vatsal565's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vatsal565&theme=blue-green&show_icons=true&hide_border=true&layout=compact&hide=jupyter%20notebook)
 
 ## 🤝 Connect with me
 <p align="center">
